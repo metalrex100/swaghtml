@@ -11,7 +11,7 @@ Supported swagger specification formats:
 
 Download swaghtml by using:
 ```sh
-$ go get -u github.com/metalrex100/swaghtml
+$ go get github.com/metalrex100/swaghtml
 ```
 
 ## Usage
